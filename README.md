@@ -44,5 +44,10 @@ Example:
 - Enter your age - Input: 25
 - Output: You are classified as: adult
 
+## Status
+> The project is currently running as a basic age classification tool.
+
 ## Author
 Coder: Daniel Echeverría
+
+
