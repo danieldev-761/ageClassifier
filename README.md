@@ -4,7 +4,15 @@
 The objective of this project is to correctly classify according to age groups (child, teen, adult, senior).
 
 ## How it works
-The program consists of several functions with the following comments:
+
+1. The program runs using the following command in the terminal:
+   
+```bash
+python3 main.py
+```
+    
+   
+2. The program consists of several functions with the following comments:
 
 
 
@@ -35,7 +43,7 @@ The program consists of several functions with the following comments:
 
     show_category(category)
 
-The program prompts the user for their age, classifies it into one of the four categories, and displays the result.
+3. The program prompts the user for their age, classifies it into one of the four categories, and displays the result.
 
 ## Output and Output Example
 The program outputs a message indicating the age category.
